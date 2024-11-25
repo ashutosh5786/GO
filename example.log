@@ -1,0 +1,800 @@
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
+2024-11-23 10:00:01 INFO User login successful for user ID 12345
+2024-11-23 10:05:12 WARN Disk space usage is at 85% on /dev/sda1
+2024-11-23 10:10:45 ERROR Database connection failed on host db-server
+2024-11-23 10:15:30 INFO File uploaded successfully to S3 bucket
+2024-11-23 10:20:50 ERROR Failed to send email: SMTP server timeout
+2024-11-23 10:25:00 WARN High memory usage detected on application-server
+2024-11-23 10:30:25 INFO Scheduled job executed successfully
+2024-11-23 10:35:55 INFO User logout successful for user ID 12345
+2024-11-23 10:40:00 WARN Application response time exceeded 2 seconds
+2024-11-23 10:45:15 ERROR Unable to process payment: Invalid credit card details
