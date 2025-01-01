@@ -38,9 +38,9 @@ func InstallPackage(pm, pkg string) {
 		fmt.Printf("Installing %s with %s\n", pkg, pm)
 
 		cmdStr := fmt.Sprintf("%s install -y %s", pm, pkg)
-		
+
 		cmd = exec.Command("sh", "-c", cmdStr)
-		
+
 		// Capture the output and err
 		out, err := cmd.CombinedOutput()
 		if err != nil {
@@ -64,9 +64,9 @@ func InstallPackage(pm, pkg string) {
 	default:
 		fmt.Println("Unknown package manager.")
 
-	}	
+	}
 }
- 
+
 func main() {
 	if runtime.GOOS != "linux" && runtime.GOARCH != "amd64" {
 		fmt.Println("This program only runs on Linux 64-bit.")
@@ -74,13 +74,12 @@ func main() {
 	}
 
 	if len(os.Args) < 2 {
-		fmt.Println("Usage: go run main.go <package1> <package2> ...")
+		fmt.Println("Usage: installerx <package1> <package2> ...")
 		os.Exit(1)
 	}
 
 	packages := os.Args[1:]
 	fmt.Println("Packages to install :", strings.Join(packages, ", "))
-
 
 	PackageManger := findPackagemanger() // Checking if package Manger Exist
 	if PackageManger == "" {
@@ -89,7 +88,7 @@ func main() {
 	}
 
 	// Installing the packages using the package manager
-	for _, pkg := range packages{
+	for _, pkg := range packages {
 		InstallPackage(PackageManger, pkg)
 	}
 }
