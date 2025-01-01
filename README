@@ -1,0 +1,41 @@
+# Go Package Installer
+
+A simple Go binary used to install packages on Linux machines.
+
+## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/go-package-installer.git
+    cd go-package-installer
+    ```
+
+2. **Build the binary:**
+    ```bash
+    go build -o installer main.go
+    ```
+
+3. **Move the binary to a directory in your PATH:**
+    ```bash
+    sudo mv installer /usr/local/bin/
+    ```
+
+## Usage
+### Install a Package
+
+```bash
+installerx <package-name>
+```
+
+## Upcoming Feature
+### List Installed Packages
+
+```bash
+installer list
+```
+
+### Remove a Package
+
+```bash
+installer remove <package-name>
+```
