@@ -6,13 +6,13 @@ A simple Go binary used to install packages on Linux machines.
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/go-package-installer.git
-    cd go-package-installer
+    git clone https://github.com/ashutosh5786/GO.git
+    cd GO
     ```
 
 2. **Build the binary:**
     ```bash
-    go build -o installer main.go
+    go build -o installerx main.go
     ```
 
 3. **Move the binary to a directory in your PATH:**
@@ -31,11 +31,11 @@ installerx <package-name>
 ### List Installed Packages
 
 ```bash
-installer list
+installerx list
 ```
 
 ### Remove a Package
 
 ```bash
-installer remove <package-name>
+installerx remove <package-name>
 ```
