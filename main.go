@@ -9,9 +9,11 @@ import (
 )
 
 func findPackagemanger() string {
-	packageManagers := []string{"apt", "yum", "dnf", "zypper", "pacman", "emerge"}
+	packageManagers := []string{"apt", "yum", "dnf", "zypper", "pacman", "emerge", "apk"}
 	for _, pm := range packageManagers {
 		if _, err := os.Stat("/usr/bin/" + pm); err == nil {
+			return pm
+		} else if _, err := os.Stat("sbin/" + pm); err == nil {
 			return pm
 		}
 	}
@@ -47,7 +49,17 @@ func InstallPackage(pm, pkg string) {
 		}
 		fmt.Println(string(out))
 		fmt.Printf("Package %s installed successfully with %s\n", pkg, pm)
-		return
+	case "apk":
+		fmt.Printf("Installing %s with %s\n", pkg, pm)
+		cmdStr := fmt.Sprintf("%s add %s", pm, pkg)
+		cmd = exec.Command("sh", "-c", cmdStr)
+		out, err := cmd.CombinedOutput()
+		if err != nil {
+			fmt.Println("Error installing package: ", err)
+			return
+		}
+		fmt.Println(string(out))
+		fmt.Printf("Package %s installed successfully with %s\n", pkg, pm)
 
 	default:
 		fmt.Println("Unknown package manager.")
